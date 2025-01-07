@@ -1,6 +1,6 @@
 const Right = () => {
   return (
-    <div className="w-[800px] h-[1200px] flex-shrink-0 fill-[#0f141e]">
+    <div className="bg-[#f3f4f6] w-[800px] h-[1200px]">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         width="800"

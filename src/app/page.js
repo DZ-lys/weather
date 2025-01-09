@@ -8,7 +8,6 @@ export default function Home() {
     <div className="flex">
       <Left />
       <Right />
-      <Weather />
     </div>
   );
 }
